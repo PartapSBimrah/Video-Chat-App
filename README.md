@@ -22,7 +22,7 @@ Just a video chat app. This app is mostly completed but some bugs would be there
 ## Screenshots
 
 <br/>
-![Reg](https://user-images.githubusercontent.com/39325207/75358820-7e664300-58d9-11ea-9745-b0b396801aa0.jpg)
+![Reg](https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.jpg)
 <br/><br/><br/>
 ![settings](https://user-images.githubusercontent.com/39325207/75358827-80300680-58d9-11ea-9b33-d4fe7391684e.jpg)
 <br/><br/><br/>
