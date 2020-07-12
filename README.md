@@ -64,6 +64,8 @@ If you like to contribute, please let me know
 **This app has a lot bugs** and isn't yet completed. It is in progress
 
 
+## License
+
 MIT License
 
 Copyright (c) 2020 Kanwarpartap Singh
