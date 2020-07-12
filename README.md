@@ -26,32 +26,25 @@ Just a video chat app. This app is mostly completed but some bugs would be there
   <tbody>
     <tr>
       <td>
-        <img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png" style="height:200px; width:200px;"/>
+        [Register] <img
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.jpg" style="height:200px; width:200px;"/>
       </td>
       <td>
-        <img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png"/>
+        ![Notification]<img
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/notifications.jpg" style="height:200px; width:200px;"/>
       </td>
       <td>
-        <img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png"/>
+        ![Profile]<img
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/profile.png" style="height:200px; width:200px;"/>
       </td>
       <td>
-        <img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png"/>
+        ![search]<img
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/search.png" style="height:200px; width:200px;"/>
       </td>
     </tr>
   </tbody>
 </table>
-![Register](https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png)
-<br/><br/><br/>
-![settings](https://user-images.githubusercontent.com/39325207/75358827-80300680-58d9-11ea-9b33-d4fe7391684e.jpg)
-<br/><br/><br/>
-![Notification](https://user-images.githubusercontent.com/39325207/75358810-7d351600-58d9-11ea-8fe2-a2ec0da2b0cd.jpg)
-<br/><br/><br/>
-![search](https://user-images.githubusercontent.com/39325207/75358824-7f977000-58d9-11ea-8d11-850479bd2af8.jpg)
-<br/><br/><br/>
+
 
 ## Developer
 
