@@ -22,6 +22,18 @@ Just a video chat app. This app is mostly completed but some bugs would be there
 ## Screenshots
 
 <br/>
+<table>
+  <thead>
+    <tr>
+      <th>Light Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png"/>
+      </td>
 ![Register](https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.png)
 <br/><br/><br/>
 ![settings](https://user-images.githubusercontent.com/39325207/75358827-80300680-58d9-11ea-9b33-d4fe7391684e.jpg)
