@@ -35,11 +35,11 @@ Just a video chat app. This app is mostly completed but some bugs would be there
       </td>
       <td>
         ![Profile]<img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/profile.png" style="height:200px; width:200px;"/>
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/profile.jpg" style="height:200px; width:200px;"/>
       </td>
       <td>
         ![search]<img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/search.png" style="height:200px; width:200px;"/>
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/search.jpg" style="height:200px; width:200px;"/>
       </td>
     </tr>
   </tbody>
