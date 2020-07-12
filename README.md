@@ -31,7 +31,7 @@ Just a video chat app. This app is mostly completed but some bugs would be there
       </td>
       <td>
         ![Notification]<img
-          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/notifications.jpg" style="height:200px; width:200px;"/>
+          src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/notification.jpg" style="height:200px; width:200px;"/>
       </td>
       <td>
         ![Profile]<img
