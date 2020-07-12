@@ -26,20 +26,28 @@ Just a video chat app. This app is mostly completed but some bugs would be there
   <tbody>
     <tr>
       <td>
-        [Register] <img
+        <img
           src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/login.jpg" style="height:200px; width:200px;"/>
+        <br/>
+        Register
       </td>
       <td>
-        ![Notification]<img
+        <img
           src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/notification.jpg" style="height:200px; width:200px;"/>
+        <br/>
+        Notifications
       </td>
       <td>
-        ![Profile]<img
+        <img
           src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/profile.jpg" style="height:200px; width:200px;"/>
+        <br/>
+        Profile
       </td>
       <td>
-        ![search]<img
+        <img
           src="https://github.com/PartapSBimrah/Video-Chat-App/blob/master/screenshots/search.jpg" style="height:200px; width:200px;"/>
+        <br/>
+        Search
       </td>
     </tr>
   </tbody>
